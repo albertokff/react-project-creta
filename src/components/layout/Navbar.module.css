@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;    
+    padding: 1em;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.list {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.item {
+    margin-right: 1em;    
+}
+
+.item a {
+    color: #003680; 
+    text-decoration: none;    
+}
+
+.item a:hover {
+    color: #000;
+}
+
+.logo {    
+    float: left;
+    height: 50px;
+}

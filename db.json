@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "name": "adfasdfadsfadsf",
+      "budget": "234234324",
+      "category": {
+        "id": "1",
+        "name": "Criação"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "jgkjgjgjg",
+      "budget": "3515313",
+      "category": {
+        "id": "5",
+        "name": "Inovação"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Criação"
+    },
+    {
+      "id": 2,
+      "name": "Design"
+    },
+    {
+      "id": 3,
+      "name": "Contratação"
+    },
+    {
+      "id": 4,
+      "name": "Diretoria"
+    },
+    {
+      "id": 5,
+      "name": "Inovação"
+    }
+  ]
+}
